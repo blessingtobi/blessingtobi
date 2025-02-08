@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Blessing Olorunfemi**, a **Data Scientist, AI Researcher, and Datican Scholar**, currently a **PhD Candidate** working on **Breast Cancer Detection** using **CNN and Transformer Models**.  
 
-<!--
-**blessingtobi/blessingtobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Research & Publications  
+📝 **Latest Publication:**  
+**"Machine Learning for Diabetes Prediction"** – Published in **Scientific Reports**  
+🔗 [Read the Paper](https://doi.org/10.1038/s41598-025-87767-1)  
 
-Here are some ideas to get you started:
+### 🛠 What I Do  
+- **Healthcare AI** – Developing deep learning models for disease detection  
+- **Machine Learning & NLP** – Fake news classification, phishing email detection  
+- **AI & Cybersecurity** – Detecting fraudulent activities with ML  
+- **Web App Deployment** – Flask applications for AI-powered tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/blessing-olorunfemi-aa62a2171)  
+🔬 [ORCID](https://orcid.org/0000-0002-6646-9616)  
+📫 **Email:** blessing@example.com  
+
+⚡ **Passionate about AI for healthcare and real-world impact. Let’s collaborate!** 🚀  
