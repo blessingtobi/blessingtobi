@@ -15,6 +15,6 @@ I'm **Blessing Olorunfemi**, a **Data Scientist, AI Researcher, and Datican Scho
 ### 🌍 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/blessing-olorunfemi-aa62a2171)  
 🔬 [ORCID](https://orcid.org/0000-0002-6646-9616)  
-📫 **Email:** blessing@example.com  
+📫 **Email:** blessingtobi29@yahoo.com  
 
 ⚡ **Passionate about AI for healthcare and real-world impact. Let’s collaborate!** 🚀  
